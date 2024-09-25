@@ -1,0 +1,4 @@
+[common]
+bind_port = 23500
+authentication_timeout = 0
+token = Zhang1234
